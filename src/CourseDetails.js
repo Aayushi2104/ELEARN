@@ -142,17 +142,17 @@ const courseData = {
     ],
     videoSrc: 'https://www.youtube.com/watch?v=-mx_Kf3qKJY',
   },
-  reduceinto: {
-    title: 'Lazy Iteration',
-    duration: '08:20',
-    tasks: 2,
-    materials: [
-      { name: 'LazyIteration-checklist.docx', size: '7.24 KB' },
-      { name: 'LazyIteration-documentation.pdf', size: '46.25 KB' },
-      { name: 'LazyIteration-guidelines.pdf', size: '49.43 KB' },
-    ],
-    videoSrc: 'https://www.youtube.com/watch?v=-mx_Kf3qKJY',
-  },
+  // reduceinto: {
+  //   title: 'Lazy Iteration',
+  //   duration: '08:20',
+  //   tasks: 2,
+  //   materials: [
+  //     { name: 'LazyIteration-checklist.docx', size: '7.24 KB' },
+  //     { name: 'LazyIteration-documentation.pdf', size: '46.25 KB' },
+  //     { name: 'LazyIteration-guidelines.pdf', size: '49.43 KB' },
+  //   ],
+  //   videoSrc: 'https://www.youtube.com/watch?v=-mx_Kf3qKJY',
+  // },
 };
 
 const VideoSection = ({ videoSrc, title }) => (
